@@ -41,7 +41,7 @@
       </transition>
       <div
         class="name"
-      >彼岸霜滢Eliro</div>
+      >滢宝一定要快乐呀</div>
       <!-- <div class="btn" :title="t(INFO_I18N.lang)" @click="changeLang">
         <svg
           viewBox="0 0 1024 1024"

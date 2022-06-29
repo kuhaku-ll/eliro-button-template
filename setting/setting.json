@@ -1,15 +1,15 @@
 {
   "name": {
     "CN": {
-      "title": "Eliro按钮",
-      "fullName": "彼岸霜滢Eliro按钮"
+      "title": "绒布球们の赠言",
+      "fullName": "绒布球们の赠言"
     },
     "EN": {
-      "title": "eliro Button",
-      "fullName": "eliro"
+      "title": "ToEliro",
+      "fullName": "ToEliro"
     }
   },
-  "readme": "<div style=\"text-align: center;font-size: 20px;\">❄️I am Eliro's dog forever！！！！！（2022-06-30天使回到了彼岸，祝她快乐）❄️</div>",
+  "readme": "<div style=\"text-align: center;font-size: 20px;\">❄️2022-06-30天使回到了彼岸，祝她快乐❄️</div>",
   "header": {
     "icon": "img/logo.svg",
     "youtube": "",
@@ -63,7 +63,7 @@
     "githubUrl": "https://github.com/blacktunes/hiiro-button"
   },
   "console": {
-    "text": "彼岸霜滢Eliro",
+    "text": "滢宝要快乐呀",
     "size": "24px",
     "color": "blank",
     "img": "eliro.jpg",
